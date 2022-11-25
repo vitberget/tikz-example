@@ -4,4 +4,4 @@
    ```sh
    xelatex example.tex
    ```
-2. View `example.pdf`
+2. View *example.pdf*
