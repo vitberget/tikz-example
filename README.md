@@ -12,7 +12,7 @@
 
 1. Run:
    ```sh
-   xelatex xelatex -shell-escape example-svg.tex
+   xelatex -shell-escape example-svg.tex
    pdf2svg example-svg.pdf example-svg.svg
    ```
 2. View *example-svg.svg*
